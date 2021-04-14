@@ -1,2 +1,2 @@
-# Guess-My-number
-first javascript project
+# All javascript websites
+All javascript project
